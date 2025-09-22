@@ -60,8 +60,5 @@ The hierarchy of the BOPAS outputs folder, from top to bottom, is as follows:
 
 ---------------------
 
-Authors: Stefano Palmiotto, Alma Mater Studiorum - University of Bologna
-		 e-mail: stefano.palmiotto@unibo.it
-		 
-		 Albino Carbognani, INAF-OAS
-		 e-mail: albino.carbognani@inaf.it
+Authors: Stefano Palmiotto, Alma Mater Studiorum - University of Bologna (e-mail: stefano.palmiotto@unibo.it)
+		 Albino Carbognani, INAF-OAS (e-mail: albino.carbognani@inaf.it)
