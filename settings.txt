@@ -1,0 +1,35 @@
+$Settings of BOPAS. Please, do not change the order of the inputs!
+$
+$Absolute path of the directory with all the raw .fits files to sort in the right folders:
+$path/to/raw/data
+$
+$Absolute path of the outputs of BOPAS:
+$path/to/outputs
+$
+$Absolute path of the local Astrometry.net executable:
+$path/to/astrometry
+$
+$Absolute path of the Python executable (the Python version must be compatible with the Python library astropy):
+$path/to/python
+$
+$Absolute path of the folder containing the TLEs:
+$path/to/TLE
+$
+$Year of observation:
+$2025
+$
+$Month of observation (specified as a number from 1 to 12. If the month number is smaller than 10, add a 0 before the number, for example 5 --> 05):
+$01
+$
+$Day of observation (if the day number is smaller than 10, add a 0 before the day number):
+$01
+$
+$Sort raw fits files (0 = No, 1 = Yes):
+$0
+$
+$Plate solution (0 = No, 1 = Yes):
+$0
+$
+$Streak detection and astrometry (0 = No, 1 = Yes):
+$0
+$
